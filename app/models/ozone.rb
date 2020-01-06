@@ -1,0 +1,2 @@
+class Ozone < ApplicationRecord
+end
